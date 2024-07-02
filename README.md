@@ -54,9 +54,4 @@ To ensure the Python script runs correctly, you need to import the necessary lib
 1. Ensure that XAMPP's Apache and MySQL services are running.
 2. Open your terminal or command prompt.
 3. Navigate to the directory where your Python script is located.
-4. Run the Python script using the following command:
-   ```bash
-   python your_script_name.py
-   ```
-
-This will start the Railway Reservation System. Follow the on-screen instructions to use the system.
+4. Run the Python script.
